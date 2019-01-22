@@ -1,0 +1,28 @@
+{
+  "heroes": [
+    {
+      "id": 11,
+      "name": "Mr. Nice"
+    },
+    {
+      "id": 18,
+      "name": "Dr IQ"
+    },
+    {
+      "id": 19,
+      "name": "Magma"
+    },
+    {
+      "name": "test",
+      "id": 20
+    },
+    {
+      "name": "фыва",
+      "id": 21
+    },
+    {
+      "name": "test2",
+      "id": 22
+    }
+  ]
+}
